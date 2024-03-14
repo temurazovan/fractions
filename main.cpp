@@ -1,5 +1,4 @@
 #include <iostream>
-#include <algorithm>
 
 int main() {
     float fractions[15] = {};
